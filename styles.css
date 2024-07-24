@@ -1,0 +1,44 @@
+/* Genel stil */
+body {
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+/* Header */
+header {
+    margin-bottom: 1rem;
+}
+
+header .navbar-brand {
+    font-size: 1.5rem;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Blog Kartları */
+.card {
+    border-radius: 8px;
+}
+
+.card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    margin-top: 2rem;
+}
